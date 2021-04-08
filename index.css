@@ -1,0 +1,25 @@
+* {
+    color:#0076ad;
+    background-color:#262727;
+}
+.title{
+text-align: center;
+color: #ffffff;
+font-size: 2.5em;
+}
+#fakebutton:hover{
+color: magenta;
+}
+#realbutton:hover{
+    color: red;
+}
+#button{
+    user-select: none;
+    font-size: 2em;
+    margin-left: 46.7%;
+    border: solid;
+    color: black;
+}
+#button:hover{
+    background-color: white;
+}
